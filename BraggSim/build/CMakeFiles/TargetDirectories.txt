@@ -1,0 +1,4 @@
+/Users/mac/Desktop/BraggSim/build/CMakeFiles/BraggSim.dir
+/Users/mac/Desktop/BraggSim/build/CMakeFiles/BraggSim_COPY_SCRIPTS.dir
+/Users/mac/Desktop/BraggSim/build/CMakeFiles/edit_cache.dir
+/Users/mac/Desktop/BraggSim/build/CMakeFiles/rebuild_cache.dir
